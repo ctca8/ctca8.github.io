@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blognya Candra</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Blognya Candra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jan 2021 21:55:43 +0700</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ini Postingan Selanjutnya</title>
+      <link>http://example.org/posts/post-2/</link>
+      <pubDate>Thu, 07 Jan 2021 21:55:43 +0700</pubDate>
+      
+      <guid>http://example.org/posts/post-2/</guid>
+      <description>Suspendisse elementum dui libero, quis ultricies felis porttitor a. Maecenas ultricies tempus neque at tempor. Morbi nec orci vel purus molestie aliquet eu eget nulla. Integer facilisis lobortis ipsum. Fusce vehicula velit justo, nec elementum metus dignissim eu. Integer dignissim mollis turpis. Aliquam erat volutpat. In consequat iaculis justo, non maximus ligula semper quis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam erat volutpat. Cras interdum arcu ac justo suscipit convallis.</description>
+    </item>
+    
+    <item>
+      <title>Postingan Embuh</title>
+      <link>http://example.org/posts/post-1/</link>
+      <pubDate>Thu, 07 Jan 2021 21:14:39 +0700</pubDate>
+      
+      <guid>http://example.org/posts/post-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pellentesque porttitor tortor, eget laoreet augue porta at. Ut lobortis euismod tempus. Suspendisse faucibus ante erat, eget malesuada nisl accumsan id. Aenean id elit at ligula hendrerit sodales. Fusce interdum tempus est, at ullamcorper arcu interdum ut. Fusce id mattis nibh, nec ultricies erat. Sed quis gravida libero. Aenean nunc dui, euismod maximus finibus eget, pretium vitae tortor. Sed convallis nisl nec porttitor ultrices.</description>
+    </item>
+    
+  </channel>
+</rss>
